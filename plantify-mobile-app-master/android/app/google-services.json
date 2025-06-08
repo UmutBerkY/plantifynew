@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519585910777",
+    "project_id": "deneme-2e23b",
+    "storage_bucket": "deneme-2e23b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519585910777:android:157fb8893edc4efd19b728",
+        "android_client_info": {
+          "package_name": "com.example.plant_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKrOLZdijAV9_odX5MmJ3KgncwB6fbLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
